@@ -1,0 +1,9 @@
+{
+  "logger": {
+    "level": "info",
+    "format": "json"
+  },
+  "rest": {
+    "port": 8080
+  }
+}
